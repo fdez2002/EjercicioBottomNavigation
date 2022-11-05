@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjercicioBottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">ASIR</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
