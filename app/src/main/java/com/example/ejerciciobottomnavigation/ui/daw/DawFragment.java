@@ -1,4 +1,4 @@
-package com.example.ejerciciobottomnavigation.ui.notifications;
+package com.example.ejerciciobottomnavigation.ui.daw;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,14 +12,14 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.ejerciciobottomnavigation.databinding.FragmentNotificationsBinding;
 
-public class NotificationsFragment extends Fragment {
+public class DawFragment extends Fragment {
 
     private FragmentNotificationsBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        NotificationsViewModel notificationsViewModel =
-                new ViewModelProvider(this).get(NotificationsViewModel.class);
+        DawViewModel notificationsViewModel =
+                new ViewModelProvider(this).get(DawViewModel.class);
 
         binding = FragmentNotificationsBinding.inflate(inflater, container, false);
         View root = binding.getRoot();

@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">EjercicioBottomNavigation</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">ASIR</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_asir">ASIR</string>
+    <string name="title_daw">DAW</string>
+    <string name="title_dam">DAM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

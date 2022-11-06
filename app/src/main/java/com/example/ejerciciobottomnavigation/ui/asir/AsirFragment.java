@@ -1,4 +1,4 @@
-package com.example.ejerciciobottomnavigation.ui.dashboard;
+package com.example.ejerciciobottomnavigation.ui.asir;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,14 +12,14 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.ejerciciobottomnavigation.databinding.FragmentDashboardBinding;
 
-public class DashboardFragment extends Fragment {
+public class AsirFragment extends Fragment {
 
     private FragmentDashboardBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        DashboardViewModel dashboardViewModel =
-                new ViewModelProvider(this).get(DashboardViewModel.class);
+        AsirViewModel dashboardViewModel =
+                new ViewModelProvider(this).get(AsirViewModel.class);
 
         binding = FragmentDashboardBinding.inflate(inflater, container, false);
         View root = binding.getRoot();

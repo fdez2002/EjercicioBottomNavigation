@@ -1,16 +1,16 @@
-package com.example.ejerciciobottomnavigation.ui.notifications;
+package com.example.ejerciciobottomnavigation.ui.dam;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-public class NotificationsViewModel extends ViewModel {
+public class DamViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
 
-    public NotificationsViewModel() {
+    public DamViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is notifications fragment");
+        mText.setValue("Dam");
     }
 
     public LiveData<String> getText() {
