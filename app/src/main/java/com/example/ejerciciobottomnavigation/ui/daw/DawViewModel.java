@@ -10,7 +10,7 @@ public class DawViewModel extends ViewModel {
 
     public DawViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is notifications fragment");
+        mText.setValue("CFGS DAW");
     }
 
     public LiveData<String> getText() {

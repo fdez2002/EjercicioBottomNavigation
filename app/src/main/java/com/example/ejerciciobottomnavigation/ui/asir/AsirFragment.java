@@ -24,8 +24,8 @@ public class AsirFragment extends Fragment {
         binding = FragmentAsirBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-       // final TextView textView = binding.textDashboard;
-        //dashboardViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+       final TextView textView = binding.textGallery;
+       dashboardViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 

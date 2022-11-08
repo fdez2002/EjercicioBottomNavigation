@@ -10,7 +10,9 @@ public class AsirViewModel extends ViewModel {
 
     public AsirViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Asir");
+        mText.setValue("CFGS ASIR");
+
+
     }
 
     public LiveData<String> getText() {

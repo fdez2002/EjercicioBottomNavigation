@@ -10,7 +10,7 @@ public class DamViewModel extends ViewModel {
 
     public DamViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("Dam");
+        mText.setValue("CFGS DAM");
     }
 
     public LiveData<String> getText() {
