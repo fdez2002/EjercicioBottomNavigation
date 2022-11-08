@@ -10,23 +10,23 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.ejerciciobottomnavigation.databinding.FragmentDashboardBinding;
+import com.example.ejerciciobottomnavigation.databinding.FragmentDamBinding;
 import com.example.ejerciciobottomnavigation.ui.dam.DamViewModel;
 
 public class DamFragment extends Fragment {
 
-    private FragmentDashboardBinding binding;
+    private FragmentDamBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         DamViewModel dashboardViewModel =
                 new ViewModelProvider(this).get(DamViewModel.class);
 
-        binding = FragmentDashboardBinding.inflate(inflater, container, false);
+        binding = FragmentDamBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textDashboard;
-        dashboardViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+        //final TextView textView = binding.textDashboard;
+        //dashboardViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 

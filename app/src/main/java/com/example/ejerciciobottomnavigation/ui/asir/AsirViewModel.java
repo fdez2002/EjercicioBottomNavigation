@@ -10,7 +10,7 @@ public class AsirViewModel extends ViewModel {
 
     public AsirViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is dashboard fragment");
+        mText.setValue("Asir");
     }
 
     public LiveData<String> getText() {

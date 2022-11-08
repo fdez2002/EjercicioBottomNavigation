@@ -15,13 +15,13 @@
         android:id="@+id/navigation_asir"
         android:name="com.example.ejerciciobottomnavigation.ui.asir.AsirFragment"
         android:label="@string/title_asir"
-        tools:layout="@layout/fragment_dashboard" />
+        tools:layout="@layout/fragment_asir" />
 
     <fragment
         android:id="@+id/navigation_daw"
         android:name="com.example.ejerciciobottomnavigation.ui.daw.DawFragment"
         android:label="@string/title_daw"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_daw" />
     <fragment
         android:id="@+id/navigation_dam"
         android:name="com.example.ejerciciobottomnavigation.ui.dam.DamFragment"

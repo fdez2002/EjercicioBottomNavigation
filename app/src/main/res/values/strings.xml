@@ -6,4 +6,91 @@
     <string name="title_dam">DAM</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvCiclos">Ciclos Formativos Grado Superior</string>
+    <string name="tv2Info">Informática</string>
+    <string name="tvAsir">CFGS ASIR</string>
+    <string name="tvDam">CFGS DAM</string>
+    <string name="tvDaw">CFGS DAW</string>
+    <string name="tvDamTextoLarfo">
+        ¿Qué es DAM en informática? Otro anglicismo típico en marketing digital. Y si te dijéramos que este artículo trata sobre la gestión de tus activos digitales, ¡ah! mucho mejor ¿verdad?
+
+Ante el aumento constante de la desmaterialización de los soportes, los cuales se acumulan año tras año en tus servidores, es esencial establecer un método para organizarlos y almacenarlos correctamente desde el momento en que se crean, descargan o compran, para que puedan ser explotados de manera fácil y óptima.
+
+A través de este artículo, appvizer le guía en el tema de la gestión de activos digitales y te invitamos a descubrir algunas tendencias en la gestión de datos digitales.
+
+DAM: significado y traducción
+El Digital Asset Management, o DAM para los íntimos, se traduce como "gestión de activos digitales".
+
+Esto cubre la alimentación, anotación, clasificación, almacenamiento y búsqueda de recursos digitales, como imágenes fijas (ilustraciones, fotos, etc.), imágenes en movimiento (animaciones, videos, etc.), grabaciones de sonido (música, discursos, etc.) y otros documentos multimedia (fuente Wikipedia).
+
+También se habla de un dispositivo técnico y organizativo para administrar los activos digitales de una empresa (videos, creaciones publicitarias, fotos, etc.) utilizados en el contexto de las actividades de marketing y comunicación.
+
+DAM es parte de la gestión de contenido web, que tiene los mismos objetivos pero que gestiona una gama más amplia de contenido que los medios digitales solos.
+
+Gestión de contenidos: definición
+La gestión de contenido empresarial (ECM) se refiere a la metodología y las herramientas que optimizan la organización del contenido no estructurado y su restitución en diferentes medios, incluida la web.
+
+Cubre todo el ciclo de vida, es decir, las fases:
+
+creación / captura,
+
+almacenamiento
+
+indexación,
+
+gestión,
+
+limpieza
+
+distribución,
+
+publicación,
+
+de investigación,
+
+archivado.
+
+Podemos hablar sobre la producción y distribución de contenido al servicio de una marca o empresa, teniendo en cuenta los procesos comerciales.
+    </string>
+    <string name="tvDawTextoLarfo">
+        ¿Qué es un DAW?
+Entonces, ¿qué es exactamente un DAW? Como ya se ha mencionado, una DAW es una estación de trabajo de audio digital, un tipo de programa de software diseñado para la edición de audio, pero comúnmente conocido como software de producción musical. Estas aplicaciones son herramientas que vienen en muchas formas y tamaños y son usadas por productores musicales, diseñadores de sonido y todo tipo de profesionales del audio a diario. Vienen repletas de efectos de audio , instrumentos virtuales y la posibilidad de conectarse con tu interfaz de audio para grabar sonidos y reproducirlos. Con una DAW, cualquiera puede grabar equipos externos, editar muestras de audio, sintetizar música electrónica o simplemente divertirse manipulando el sonido a su antojo.
+
+¿De dónde vienen los DAW?
+En los buenos tiempos de los 70, cuando el audio analógico dominaba el mundo, las primeras iteraciones de software DAW se vieron aplastadas por cuestiones como la limitada capacidad de almacenamiento y la falta de potencia de procesamiento de los ordenadores personales. Pero, con el paso del tiempo, los ávidos ingenieros de audio de la época siguieron buscando una forma de editar su audio en formato digital. En 1978, la empresa Soundstream consiguió montar el primer sistema capaz de utilizar una pantalla de vídeo para ver las formas de onda y un procesador de audio digital para efectos sencillos.
+
+A finales de los 80, la mayoría de los ordenadores domésticos eran ya lo suficientemente potentes como para ejecutar programas sencillos de edición y masterización. En el año 91 nació Pro Tools, y así comenzó la adopción generalizada del uso del audio digital en los estudios profesionales. Poco después, el famoso Steinberg lanzó su DAW, Cubase. Con DSP y 8 pistas de grabación en una sola máquina, Steinberg sólo tardó unos años más en crear el trampolín para muchos DAWs que vendrían. En 1996, se presentó al mundo un nuevo y mejorado Cubase, con tecnología VST y hasta 32 pistas. Como puedes imaginar, este fue un movimiento que cambió el juego por parte de Steinberg y nos ha impulsado hasta donde estamos hoy.
+    </string>
+    <string name="tvAsirTextoLargo">El Ciclo Formativo de Grado Superior ASIR (Administración de Sistemas Informáticos en Red), te permitirá trabajar en empresas de distintos sectores dentro del departamento de informática o de procesos de datos, desempeñando funciones tales como instalación, mantenimiento, explotación y soporte del usuario informático.
+
+Los módulos que componen este Ciclo son los siguientes y podrás matricularte individualmente de cada uno de ellos:
+
+0369. Implantación de Sistemas Operativos
+0370. Planificación y Administración de Redes
+0371. Fundamentos de Hardware
+0372. Gestión de Bases de Datos
+0373. Lenguajes de Marcas y Sistemas de Gestión de Información
+0380. Formación y Orientación Laboral
+0374. Administración de Sistemas Operativos
+0375. Servicios de Red e Internet
+0376. Implantación de Aplicaciones Web
+0377. Administración de Sistemas Gestores de Base de Datos
+0378. Seguridad y Alta Disponibilidad
+0381. Empresa e Iniciativa Emprendedora
+0379. Proyecto de Administración de Sistemas Informáticos en Red
+0382. Formación en Centros de Trabajo (FCT).
+    Para ser ASIR debes estudiar nuestro ciclo de FP Superior en Administración de Sistemas Informáticos en Red. Se trata de una titulación oficial del Ministerio de Educación y que cuenta con la homologación de la Comunidad de Madrid. Estudiar en Edix es la mejor opción para formarte a distancia y de forma online. Te ofrecemos un plan de estudio adaptado, con prácticas garantizadas y la opción de optar a las becas oficiales. Además, nuestro grado de ASIR te proporcionará la especialidad en ciberseguridad, uno de los perfiles que más se están buscando en este momento.
+
+Soft Skills de un administrador de sistemas informáticos en red
+Las soft skills de un administrador de sistemas informáticos son las destrezas propias que este profesional tiene y que le ayudan a desarrollar de forma más eficaz su trabajo. Algunas de las habilidades que las empresas consideran más necesarias para este perfil son:
+
+Trabajo en equipo: es imprescindible. Hay que saber colaborar con todo tipo de perfiles que trabajen en tu misma empresa.
+Adaptación: a todo tipo de entornos y a los constantes cambios que afronta el mundo tecnológico.
+Iniciativa: no está reñido trabajar en grupo con tener autonomía y coger las riendas cuando es necesario.
+Análisis: tener capacidad analítica es básico para un buen administrador de sistemas informáticos en red.
+Toma de decisiones: tiene que saber decidirse, sin dudar, ya que tendrá que enfrentarse a decisiones importantes de forma habitual.
+    ¿Qué empresas necesitan un ASIR en su plantilla?
+Hoy en día es rara la empresa que no tiene todos sus recursos informatizados. Servidores, datos económicos, recursos humanos, información privada o mensajería electrónica forman parte del día a día de cualquier compañía, sea del sector que sea. Y, para que todo esto funcione perfectamente y su información esté protegida, necesitan de un profesional que se encargue de todo esto. Es ahí donde entra en juego la figura del administrador de sistemas informáticos en red. Dependiendo del tamaño que tenga la empresa, necesitarán de un especialista en ASIR que trabaje directamente con ellos o, en el caso de las más pequeñas, contratarán sus servicios como externo. Por todo esto podemos decir que estamos hablando de una profesión con grandes perspectivas laborales.
+
+Si quieres dar un cambio de rumbo y dirigir tu camino profesional hacia el ASIR o simplemente quieres seguir formándote en el mundo de la informática, no te lo pienses dos veces. Conviértete ya en administrador de sistemas informáticos en red con especialidad en ciberseguridad gracias a Edix. No te arrepentirás.</string>
 </resources>

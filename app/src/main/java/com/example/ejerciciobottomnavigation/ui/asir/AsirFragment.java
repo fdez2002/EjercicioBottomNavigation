@@ -10,22 +10,22 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.ejerciciobottomnavigation.databinding.FragmentDashboardBinding;
+import com.example.ejerciciobottomnavigation.databinding.FragmentAsirBinding;
 
 public class AsirFragment extends Fragment {
 
-    private FragmentDashboardBinding binding;
+    private FragmentAsirBinding binding;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         AsirViewModel dashboardViewModel =
                 new ViewModelProvider(this).get(AsirViewModel.class);
 
-        binding = FragmentDashboardBinding.inflate(inflater, container, false);
+        binding = FragmentAsirBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textDashboard;
-        dashboardViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
+       // final TextView textView = binding.textDashboard;
+        //dashboardViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
 
